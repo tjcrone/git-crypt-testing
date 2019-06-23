@@ -1,0 +1,3 @@
+dev/** filter=git-crypt-default diff=git-crypt-default
+ooi/** filter=git-crypt-ooi diff=git-crypt-ooi
+hydro/** filter=git-crypt-hydro diff=git-crypt-hydro
